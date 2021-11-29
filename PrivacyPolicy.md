@@ -1,4 +1,4 @@
-** Privacy Policy**
+**Privacy Policy**
 
 Dmitry Pichugin built the Bash Reader app as a Commercial app. This SERVICE is provided by Dmitry Pichugin and is intended for use as is.
 
