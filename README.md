@@ -1,4 +1,4 @@
-# bashReaderAppleWatch
+# Apple Watch standalone App - bash.im reader
 Лучшие цитаты рунета на Apple Watch
 
 ![Simulator Screen Shot - Apple Watch Series 7 - 45mm - 2021-11-29 at 14 09 08](https://user-images.githubusercontent.com/21102640/143870322-d8d6e4f8-07df-4f2a-a29d-f64780df874a.png)
@@ -8,3 +8,4 @@
 Приложение работает без айфона, необходим доступ в интернет.
 
 Скачать: 
+https://apps.apple.com/us/app/башорг-цитаты-рунета/id1597739463
